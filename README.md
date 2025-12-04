@@ -63,6 +63,7 @@ When your form is perfect: ✅ PERFECT FORM
 
 Clone the repository:
 git clone https://github.com/Amirhosseinzandi-web/BulgarianSquat-Tracker.git
+
 cd BulgarianSquat-Tracker
 
 Install dependencies:
