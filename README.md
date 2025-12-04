@@ -1,4 +1,3 @@
-```
 <div align="center">
 
 # 🏋️ Bulgarian Split Squat AI Trainer
@@ -194,4 +193,3 @@ Made with ❤️ by [Amir Hossein Zandi](https://github.com/Amirhosseinzandi-web
 <img src="https://img.shields.io/github/forks/Amirhosseinzandi-web/BulgarianSquat-Tracker?style=social"/>
 
 </div>
-```
