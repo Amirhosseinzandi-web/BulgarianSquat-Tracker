@@ -57,6 +57,7 @@ When your form is perfect: ✅ PERFECT FORM
 
 - Python 3.8 or higher
 - Webcam
+- Jupyter Notebook or VS Code with Jupyter extension
 
 ### Setup
 
@@ -65,10 +66,12 @@ git clone https://github.com/Amirhosseinzandi-web/BulgarianSquat-Tracker.git
 cd BulgarianSquat-Tracker
 
 Install dependencies:
-pip install ultralytics opencv-python numpy
+pip install ultralytics opencv-python numpy jupyter
 
 Run the application:
-python app.py
+jupyter notebook app.ipynb
+
+Or if using VS Code, just open app.ipynb and run all cells.
 
 ---
 
